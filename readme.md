@@ -1,4 +1,6 @@
+<img width="1920" height="1121" alt="Scherm­afbeelding 2025-12-12 om 09 46 24" src="https://github.com/user-attachments/assets/1bbbd51e-83b1-4b5f-8790-71148d9b34ae" />
 <h1>Moekoe's Mango's</br>
+
 Webshop</h1>
 
 <h2>The pages</h2>
