@@ -50,3 +50,5 @@ I have made a <a href="https://mikast14.github.io/Moekoes-Mangos/admin/admin.htm
 
 <h4>This was my sketch i made before i started </h4>
 <img src="Plan/voorbeeld.png" alt="">
+<img width="1920" height="1054" alt="Scherm­afbeelding 2025-12-12 om 09 50 13" src="https://github.com/user-attachments/assets/ac51f077-6522-44e3-b35f-b2b4fedc8466" />
+
